@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Marcin Perkowski
 description         : >-
-                      Test of my porfolio,
-                      just seeing how it looks
-                      and setting it up.
+                      Hi there, I'm Marcin!
+                      Playing, making, watching, talking, 
+                      researching games is what I do.
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : marcinperkow                      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -25,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Marcin Perkowski
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : marcinperkow.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : marcin.perkow@gmail.com
@@ -59,8 +59,8 @@ collections:
 
 
 ### Disqus ###
-disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+#disqus:
+#  shortname: your-short-name-disqus                     # Your website Shortname on disqus
 
 
 ### Analytics ###
