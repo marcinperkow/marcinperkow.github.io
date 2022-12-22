@@ -13,7 +13,7 @@ dribbble:
 
 email:
   url   : "mailto:"
-  icon  : fas fa-envelope
+  icon  : fas fa-envelope fa-2x
   color : db4437
 
 facebook:
@@ -23,7 +23,7 @@ facebook:
 
 github:
   url   : https://www.github.com/
-  icon  : fab fa-github
+  icon  : fab fa-github fa-2x
   color : 333333
 
 gitlab:
@@ -43,7 +43,7 @@ kaggle:
 
 linkedin:
   url   : https://www.linkedin.com/in/
-  icon  : fab fa-linkedin-in
+  icon  : fab fa-linkedin-in fa-2x
   color : 007bb5
 
 medium:
