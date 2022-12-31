@@ -13,8 +13,11 @@ I tried to recreate my childhood playground. I used to live there for about 14 y
 ## Pictures
 
 {% capture carousel_images %}
-https://bit.ly/2BBbVhc
-https://bit.ly/2DOtxXB
+https://marcinperkowski.com/MyChildhoodProjectLocal/p1.png
+https://marcinperkowski.com/MyChildhoodProjectLocal/p2.png
+https://marcinperkowski.com/MyChildhoodProjectLocal/p3.png
+https://marcinperkowski.com/MyChildhoodProjectLocal/p4.png
+https://marcinperkowski.com/MyChildhoodProjectLocal/p5.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
