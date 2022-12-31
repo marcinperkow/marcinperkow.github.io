@@ -25,6 +25,11 @@ https://marcinperkowski.com/MyChildhoodProjectLocal/p5.png
 
 {% include elements/video.html id="aZNbUITN-mA" %}
 
+## Controls
+
+LMB/CTRL - Shoot the ball
+SPACEBAR - Jump, can jump in the air too
+
 <p class="text-center">
 {% include elements/button.html link="http://marcinperkowski.com/MyChildhoodProject/" text="Try the game out!" %}
 </p>
