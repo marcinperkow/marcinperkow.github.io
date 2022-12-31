@@ -1,9 +1,8 @@
 ### Site Settings ###
 title               : Marcin Perkowski
 description         : >-
-                      Hi there, I'm Marcin!
-                      Playing, making, watching, talking, 
-                      researching games is what I do.
+                      My life is code.\
+                      My life is game.
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : marcinperkow                      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : marcinperkow/portfolYOU
