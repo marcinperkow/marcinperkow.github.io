@@ -1,11 +1,11 @@
 ---
-name: MyChildhoodProject
+name: My Childhood Project
 tools: [Unity, C#]
 image: https://marcinperkowski.com/MyChildhoodProjectLocal/pMain.png
 description: Short Unity project that showcases the theme of "What does your childhood mean to you?"
 ---
 
-# MyChildhoodProject
+# My Childhood Project
 
 The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
 
