@@ -1,7 +1,7 @@
 ---
 name: MyChildhoodProject
 tools: [Unity, C#]
-image: /MyChildhoodProject/pMain.png
+image: MyChildhoodProject/pMain.png
 description: Short Unity project that showcases the theme of "What does your childhood mean to you?"
 ---
 
