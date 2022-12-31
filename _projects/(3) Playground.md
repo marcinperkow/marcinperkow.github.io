@@ -9,15 +9,7 @@ description: This project has an individual showcase page, not just a direct lin
 
 The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
 
----
-title: "Test Post"
-date: 2017-10-13
-unity_dir: game_post
-categories:
-  - General
-tags:
-  - test
----
+
 
 This is a test post.
 
