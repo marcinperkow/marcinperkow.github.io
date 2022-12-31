@@ -13,13 +13,14 @@ I tried to recreate my childhood playground. I used to live there for about 14 y
 ## Pictures
 
 {% capture carousel_images %}
-https://www.youtube.com/watch?v=aZNbUITN-mA
 https://bit.ly/2BBbVhc
 https://bit.ly/2DOtxXB
 {% endcapture %}
 {% include elements/carousel.html %}
 
 ## Gameplay
+
+{% include elements/video.html id="aZNbUITN-mA" %}
 
 <p class="text-center">
 {% include elements/button.html link="http://marcinperkowski.com/MyChildhoodProject/" text="Try the game out!" %}
