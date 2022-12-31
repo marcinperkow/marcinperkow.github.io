@@ -27,7 +27,7 @@ https://marcinperkowski.com/MyChildhoodProjectLocal/p5.png
 
 ## Controls
 
-LMB/CTRL - Shoot the ball
+LMB/CTRL - Shoot the ball\
 SPACEBAR - Jump, can jump in the air too
 
 <p class="text-center">
