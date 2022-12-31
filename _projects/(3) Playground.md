@@ -1,7 +1,7 @@
 ---
 name: MyChildhoodProject
 tools: [Unity, C#]
-image: marcinperkow.jpg
+image: https://marcinperkowski.com/marcinperkow.jpg
 description: Short Unity project that showcases the theme of "What does your childhood mean to you?"
 ---
 
