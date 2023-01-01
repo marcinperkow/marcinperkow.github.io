@@ -1,20 +1,33 @@
 ---
 name: Widgets AR
 tools: [Unity, C#, AR]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+image: https://marcinperkowski.com/WidgetsARLocal/p0.png
+description: AR project that displays widgets using camera pointed at specific targets.
 ---
 
 # Widgets AR
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
+This is my project 1. Currently I implemented 4 widgets. You will be able to see current time and date. You will aslo be able to see temperature, humidity, wind speed and wind direction for a city of Chicago. All 4 widgets can be present at the same time.
 
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
+## Pictures
 
-## Search Movies
+{% capture carousel_images %}
+https://marcinperkowski.com/WidgetsARLocal/p0.png
+https://marcinperkowski.com/WidgetsARLocal/p1.png
+https://marcinperkowski.com/WidgetsARLocal/p2.png
+https://marcinperkowski.com/WidgetsARLocal/p3.png
+https://marcinperkowski.com/WidgetsARLocal/p4.png
+{% endcapture %}
+{% include elements/carousel.html %}
 
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
+## Gameplay
 
-<p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
-</p>
+{% include elements/video.html id="aZNbUITN-mA" %}
+
+## Controls
+
+Connect camera and set it as device in vuforia settings. Use camera on targets to get specific environment.
+
+## Github
+
+[**Link**](https://github.com/marcinperkow/WidgetsAR)
