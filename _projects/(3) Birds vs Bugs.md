@@ -36,6 +36,6 @@ SPACEBAR - Fly
 
 [**Link**](https://github.com/marcinperkow/BirdsVsBugs)
 
-<p class="text-center">
+<p class="text-center" style="display: flex;justify-content: center;">
 {% include elements/button.html link="https://github.com/marcinperkow/BirdsVsBugs/tree/master/BirdsVsBugs" text="Try the game out!" %}
 </p>

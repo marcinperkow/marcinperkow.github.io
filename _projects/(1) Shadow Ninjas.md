@@ -38,6 +38,6 @@ ESC      - Pause
 
 [**Link**](https://github.com/marcinperkow/ShadowNinjas)
 
-<p class="text-center">
+<p class="text-center" style="display: flex;justify-content: center;">
 {% include elements/button.html link="https://github.com/kkevn/cs426_ShadowNinjas/releases/tag/v1.0" text="Try the game out!" %}
 </p>

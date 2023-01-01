@@ -36,6 +36,6 @@ SPACEBAR - Jump, can jump in the air too
 
 [**Link**](https://github.com/marcinperkow/MyChildhoodProject)
 
-<p class="text-center">
+<p class="text-center" style="display: flex;justify-content: center;">
 {% include elements/button.html link="http://marcinperkowski.com/MyChildhoodProject/" text="Try the game out!" %}
 </p>
