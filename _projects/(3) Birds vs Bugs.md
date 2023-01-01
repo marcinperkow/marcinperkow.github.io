@@ -32,7 +32,7 @@ W/A/S/D  - Movement\
 LMB      - Shoot\
 SPACEBAR - Fly
 
-## Github
+## [Github](https://github.com/marcinperkow/BirdsVsBugs)
 
 [**Link**](https://github.com/marcinperkow/BirdsVsBugs)
 
