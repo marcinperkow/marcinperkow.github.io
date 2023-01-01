@@ -29,6 +29,4 @@ https://marcinperkowski.com/ClassroomEVLVRLocal/p5.png
 
 See in game!
 
-## Github
-
-[**Link**](https://github.com/marcinperkow/ClassroomEVLVR)
+## [Github](https://github.com/marcinperkow/ClassroomEVLVR)

@@ -34,9 +34,7 @@ RMB      - Lock onto target\
 SPACEBAR - Jump\
 ESC      - Pause
 
-## Github
-
-[**Link**](https://github.com/marcinperkow/ShadowNinjas)
+## [Github](https://github.com/marcinperkow/ShadowNinjas)
 
 <p class="text-center" style="display: flex;justify-content: center;">
 {% include elements/button.html link="https://github.com/kkevn/cs426_ShadowNinjas/releases/tag/v1.0" text="Try the game out!" %}

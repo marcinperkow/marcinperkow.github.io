@@ -32,9 +32,7 @@ W/A/S/D  - Movement\
 LMB/CTRL - Shoot the ball\
 SPACEBAR - Jump, can jump in the air too
 
-## Github
-
-[**Link**](https://github.com/marcinperkow/MyChildhoodProject)
+## [Github](https://github.com/marcinperkow/MyChildhoodProject)
 
 <p class="text-center" style="display: flex;justify-content: center;">
 {% include elements/button.html link="http://marcinperkowski.com/MyChildhoodProject/" text="Try the game out!" %}

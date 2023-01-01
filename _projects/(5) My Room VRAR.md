@@ -28,6 +28,4 @@ https://marcinperkowski.com/MyRoomVRARLocal/p4.png
 
 Connect camera and set it as device in vuforia settings. Use camera on targets to get specific environment.
 
-## Github
-
-[**Link**](https://github.com/marcinperkow/MyRoomVRAR)
+## [Github](https://github.com/marcinperkow/MyRoomVRAR)

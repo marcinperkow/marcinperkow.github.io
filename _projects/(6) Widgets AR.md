@@ -28,6 +28,4 @@ https://marcinperkowski.com/WidgetsARLocal/p4.png
 
 Connect camera and set it as device in vuforia settings. Use camera on targets to get specific environment.
 
-## Github
-
-[**Link**](https://github.com/marcinperkow/WidgetsAR)
+## [Github](https://github.com/marcinperkow/WidgetsAR)
