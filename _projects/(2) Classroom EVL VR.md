@@ -18,6 +18,7 @@ https://marcinperkowski.com/ClassroomEVLVRLocal/p2.png
 https://marcinperkowski.com/ClassroomEVLVRLocal/p3.png
 https://marcinperkowski.com/ClassroomEVLVRLocal/p4.png
 https://marcinperkowski.com/ClassroomEVLVRLocal/p5.png
+https://marcinperkowski.com/ClassroomEVLVRLocal/p6.png
 {% endcapture %}
 {% include elements/carousel.html %}
 

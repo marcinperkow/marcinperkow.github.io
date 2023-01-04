@@ -17,6 +17,8 @@ https://marcinperkowski.com/MyRoomVRARLocal/p1.png
 https://marcinperkowski.com/MyRoomVRARLocal/p2.png
 https://marcinperkowski.com/MyRoomVRARLocal/p3.png
 https://marcinperkowski.com/MyRoomVRARLocal/p4.png
+https://marcinperkowski.com/MyRoomVRARLocal/p5.png
+https://marcinperkowski.com/MyRoomVRARLocal/p6.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
