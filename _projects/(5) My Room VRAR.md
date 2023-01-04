@@ -3,6 +3,9 @@ name: My Room VRAR
 tools: [Unity, C#, AR, VR]
 image: https://marcinperkowski.com/MyRoomVRARLocal/p0.png
 description: Project utilizing a combination of VR and AR elements based on my own room!
+             <br>
+             <br>
+             <br>
 ---
 
 # My Room VRAR

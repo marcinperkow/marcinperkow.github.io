@@ -3,6 +3,9 @@ name: My Childhood Project
 tools: [Unity, C#]
 image: https://marcinperkowski.com/MyChildhoodProjectLocal/p0.png
 description: Short Unity project that showcases the theme of "What does your childhood mean to you?"
+             <br>
+             <br>
+             <br>
 ---
 
 # My Childhood Project

@@ -3,6 +3,10 @@ name: Widgets AR
 tools: [Unity, C#, AR]
 image: https://marcinperkowski.com/WidgetsARLocal/p0.png
 description: AR project that displays widgets using camera pointed at specific targets.
+             <br>
+             <br>
+             <br>
+             <br>
 ---
 
 # Widgets AR
