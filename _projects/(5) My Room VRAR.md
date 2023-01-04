@@ -24,7 +24,7 @@ https://marcinperkowski.com/MyRoomVRARLocal/p6.png
 
 ## Gameplay
 
-{% include elements/video.html id="aZNbUITN-mA" %}
+{% include elements/video.html id="Faa-5kQVMgE" %}
 
 ## Controls
 

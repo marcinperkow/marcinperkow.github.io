@@ -24,7 +24,7 @@ https://marcinperkowski.com/ShadowNinjasLocal/p5.png
 
 ## Gameplay
 
-{% include elements/video.html id="aZNbUITN-mA" %}
+{% include elements/video.html id="KKleRDtGPhQ" %}
 
 ## Controls
 

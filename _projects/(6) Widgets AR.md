@@ -22,7 +22,7 @@ https://marcinperkowski.com/WidgetsARLocal/p4.png
 
 ## Gameplay
 
-{% include elements/video.html id="aZNbUITN-mA" %}
+{% include elements/video.html id="-TYAlIoI59c" %}
 
 ## Controls
 

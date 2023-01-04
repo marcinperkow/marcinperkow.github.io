@@ -24,7 +24,7 @@ https://marcinperkowski.com/ClassroomEVLVRLocal/p6.png
 
 ## Gameplay
 
-{% include elements/video.html id="aZNbUITN-mA" %}
+{% include elements/video.html id="7pe88IvqMX4" %}
 
 ## Controls
 
