@@ -3,8 +3,9 @@ name: Birds vs Bugs
 tools: [Unity, C#, Network]
 image: https://marcinperkowski.com/BirdsVsBugsLocal/p0.png
 description: A cooparative multiplayer shooter game where you play as birds trying to get rid off pesky bugs!
-             <br>
-             <br>
+             \
+             \
+             \
 ---
 
 # Birds vs Bugs
