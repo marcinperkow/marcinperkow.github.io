@@ -3,13 +3,13 @@ name: Birds vs Bugs
 tools: [Unity, C#, Network]
 image: https://marcinperkowski.com/BirdsVsBugsLocal/p0.png
 description: A cooparative multiplayer shooter game where you play as birds trying to get rid off pesky bugs!
+<br/>
+<br/>
 ---
 
 # Birds vs Bugs
 
 Overall light simulates inside lights of PC, button is just a PC button, ball is a debug object that helps eliminate bugs and finally bug billboard stares at you all the time and you can't get rid off it as a metaphor for coders. Whole game has working networking with host and clients. Eliminating all 10 bugs is the main goal.
-<br/>
-<br/>
 
 ## Pictures
 
