@@ -1,19 +1,15 @@
 ### Site Settings ###
 title               : Marcin Perkowski
-description         : >-
-                      <br>
-                      <br>
-                      <br>
-                      <br>
-                      <br>
-                      # About Me
-                      <br>
-                      Something
+description         : 
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : marcinperkow                      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : marcinperkow/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
+---
+title      : About Me
+description: Something something
+---
 
 ### Plugins ###
 plugins:
