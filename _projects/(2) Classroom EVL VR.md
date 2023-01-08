@@ -2,7 +2,7 @@
 name: Classroom EVL VR
 tools: [Unity, C#, VR]
 image: https://marcinperkowski.com/ClassroomEVLVRLocal/p0.png
-description: Virtual reality EVL classroom from UIC with multiple interactible objects and different behaviors.
+description: Virtual reality EVL classroom from UIC with multiple interactable objects and different behaviors.
              <br>
              <br>
              <br>
